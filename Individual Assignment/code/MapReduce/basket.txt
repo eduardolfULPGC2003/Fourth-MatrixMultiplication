@@ -1,0 +1,20 @@
+apple banana orange grape
+banana orange grape kiwi
+apple banana watermelon strawberry
+apple orange kiwi
+grape watermelon strawberry
+banana orange strawberry grape kiwi
+apple banana orange strawberry kiwi
+grape watermelon kiwi
+orange banana grape strawberry kiwi
+apple watermelon kiwi
+banana grape orange watermelon
+apple kiwi strawberry watermelon
+banana orange kiwi watermelon
+apple banana grape watermelon
+strawberry kiwi banana grape
+apple orange watermelon
+grape watermelon kiwi banana
+banana apple orange watermelon kiwi
+apple banana orange kiwi
+watermelon grape strawberry orange
